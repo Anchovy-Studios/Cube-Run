@@ -1,2 +1,0 @@
-# dokumentasi
-Untuk semua dokumentasi

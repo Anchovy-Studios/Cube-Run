@@ -1,6 +1,6 @@
 # Cube Run
 
-![](https://img.shields.io/github/issues/Anchovy-Studios/Cube-Run) ![](https://img.shields.io/github/license/Anchovy-Studios/Cube-Run) ![](https://img.shields.io/github/v/release/Anchovy-Studios/Cube-Run) ![](https://img.shields.io/github/repo-size/Anchovy-Studios/Cube-Run)
+![](https://img.shields.io/github/issues/Anchovy-Studios/Cube-Run) ![](https://img.shields.io/github/license/Anchovy-Studios/Cube-Run) ![](https://img.shields.io/github/v/release/Anchovy-Studios/Cube-Run) ![](https://img.shields.io/github/languages/code-size/Anchovy-Studios/Cube-Run)
 
 Cube Run is an endless run game. The player have to avoid the obstacles by jumping or moving to antoher lane. Score is calculated based on how long the player last.
 

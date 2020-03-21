@@ -32,6 +32,10 @@ You can download the `.jar` or windows `.exe` file on our [release page](https:/
 
 5. **Clean and build** the project.
 
+## Documentation
+
+Please visit our [documentation page](https://anchovy-studios.github.io/Cube-Run/) for more information.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

@@ -15,13 +15,13 @@ You can download the `.jar` or windows `.exe` file on our [release page](https:/
    using **SSH**:
 
    ```bash
-   git clone git@gitlab.com:anchovy-studios/public-repo/cube-run.git
+   git clone git@github.com:Anchovy-Studios/Cube-Run.git
    ```
 
    or using **HTTPS**:
 
    ```bash
-   git clone https://gitlab.com/anchovy-studios/public-repo/cube-run.git
+   git clone https://github.com/Anchovy-Studios/Cube-Run.git
    ```
 
 2. **Download JMonkey Engine** IDE from https://github.com/jMonkeyEngine/sdk/releases
